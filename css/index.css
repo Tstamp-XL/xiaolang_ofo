@@ -155,6 +155,10 @@ span{
 
 }
 
+.list-img{
+	margin-top : 10px; 
+}
+
 .list-img ul{
 	/*background: black;*/
 	width: 100%;
@@ -162,12 +166,13 @@ span{
 }
 
 .list-img ul li img{
-	/*background: black;*/
+	background: black;
 	width: 100%;
+
 }
 
 .list-img .list-inline{
-	/**/
+
 }
 .list-img .list-inline .list-li-span{
 	position: absolute;
@@ -251,4 +256,7 @@ span{
 	#header{
 		background: rgba(38, 38, 38, 0.8);
 	}
+	#footer{
+	margin-top: 2px;
+}
 }
