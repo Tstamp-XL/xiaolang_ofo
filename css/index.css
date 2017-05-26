@@ -241,4 +241,7 @@ span{
 	#img-home img{
 	margin-top: 100px;
 	}
+	#header{
+	background: rgba(38, 38, 38, 0.8);
+	}
 }
