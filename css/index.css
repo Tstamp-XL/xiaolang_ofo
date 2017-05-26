@@ -4,6 +4,10 @@ body, div, #div-container-fluid{
 	margin: 0;
 	padding: 0;
 }
+
+ul, ol{
+	list-style: outside none none;
+}
 body{
 	background: #fff;
 	font-family: "Helvetica Neue", Helvetica, Arial, "Microsoft Yahei UI", "Microsoft YaHei", SimHei, "\5B8B\4F53", simsun, sans-serif;
