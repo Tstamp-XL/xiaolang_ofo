@@ -234,3 +234,11 @@ span{
 	line-height: 50px;
 }
 
+
+
+
+@media (max-width: 768px) {
+	#img-home img{
+	top: 100px;
+	}
+}
